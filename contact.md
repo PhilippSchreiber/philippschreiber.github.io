@@ -10,7 +10,7 @@ Heilbronner Straße 11
 74172 Neckarsulm
 
 07132 / 7090000  
-[mail@philippschreiber.de](mail@philippschreiber.de)
+[mail@philippschreiber.de](mailto:mail@philippschreiber.de)
 
 ## Impressum
 

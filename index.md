@@ -9,10 +9,10 @@ Im Januar 2013 habe ich mit Jochen zusammen Schreiber & Freunde gegründet, Anfa
 
 ## Meine Projekte
 
-* KRUU.com
-* KRUU Fotobox
-* mahlzeit.io
-* porky.io
+* [KRUU.com](https://kruu.com): Vermittlungen von Dienstleistern für deine Feier.
+* [KRUU Fotobox](https://www.kruu-fotobox.de): Fotobox für deine Feier mieten für nur 290 EUR
+* [mahlzeit.io](https://mahlzeit.io): Software-as-a-Service für Gastronomen
+* [porky.io](http://porky.io): Open Source InDesign Scripting Library
 
 Natürlich haben wir in der Vergangenheit auch viele Kundenprojekte gemacht. Hier eine Auswahl, auf die ich stolz bin.
 
