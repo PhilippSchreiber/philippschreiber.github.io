@@ -15,9 +15,9 @@ Heilbronner Straße 11
 ## Impressum
 
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
-Philipp Schreiber
-c/o Schreiber & Freunde GmbH & Co. KG
-Heilbronner Straße 11
+Philipp Schreiber  
+c/o Schreiber & Freunde GmbH & Co. KG  
+Heilbronner Straße 11  
 74172 Neckarsulm
 
 ### Haftungsausschluss
