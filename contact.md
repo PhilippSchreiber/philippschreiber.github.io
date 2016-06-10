@@ -4,12 +4,12 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
-Philipp Schreiber
-c/o Schreiber & Freunde GmbH & Co. KG
-Heilbronner Straße 11
+Philipp Schreiber  
+c/o Schreiber & Freunde GmbH & Co. KG  
+Heilbronner Straße 11  
 74172 Neckarsulm
 
-07132 / 7090000
+07132 / 7090000  
 [mail@philippschreiber.de](mail@philippschreiber.de)
 
 ## Impressum
