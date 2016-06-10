@@ -16,5 +16,6 @@ Im Januar 2013 habe ich mit Jochen zusammen Schreiber & Freunde gegründet, Anfa
 
 Natürlich haben wir in der Vergangenheit auch viele Kundenprojekte gemacht. Hier eine Auswahl, auf die ich stolz bin.
 
-* bb-promotion.com
-* exxeta.com
+* bb-promotion.com (aus 2013)
+* iks-gruppe.de (aus 2013)
+* exxeta.com (aus 2015)
