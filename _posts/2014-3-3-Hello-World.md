@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You're up and running!
-date: 20161025
+date: 161025
 sitemap: false
 ---
 
