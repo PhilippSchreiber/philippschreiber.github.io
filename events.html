@@ -2,13 +2,15 @@
 layout: default
 title: Events
 permalink: /events/
+categories:
+– events
 ---
 
 <div class="posts">
-  {% for event in site.events %}
+  {% for post in .categories['events'] %}
     <article class="post">
 
-      <h1>{{ page.date | date: "%B %e, %Y" }} – {{ post.title }}</h1>
+      <h1>{{ post.date | date: "%B %e, %Y" }} – {{ post.title }}</h1>
 
       <div class="entry">
         {{ post.excerpt }}
