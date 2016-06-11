@@ -28,4 +28,4 @@ Ich habe in der Vergangenheit sehr viel Wordpress-Development gemacht und auch v
 Mit meiner Band AndiOliPhilipp habe ich viele Jahre viele kleine und auch manche große Bühnen in Deutschland unsicher gemacht. Seit 2013 ruht AOP mit Ausnahme von einem Konzert. Seit Anfang 2016 spiele ich einmal im Monat mit der Band "Keep it Real" in der Laube in Heilbronn. Akkustik-Cover mit fester Besetzung und wechselnden Gastsängern.
 
 ## Papa
-Ich habe zwei wunderbare Kinder: Clara und Jona. Die halten mich und meine Frau Natalie ganz schön auf Trab und bereichern mein Leben ungemein :)
+Ich habe zwei wunderbare Kinder: Clara und Jona. Die zwei halten meine Frau Natalie  und mich ganz schön auf Trab und bereichern mein Leben ungemein :)
