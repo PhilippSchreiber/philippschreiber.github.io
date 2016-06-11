@@ -6,7 +6,7 @@ sitemap: false
 ---
 
 <div class="posts">
-  {% for post in site.posts | sort: "date" %}
+  {% for post in site.posts | sort: "weight" %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
