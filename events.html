@@ -2,21 +2,35 @@
 layout: default
 title: Events
 permalink: /events/
-sitemap: false
+sitemap: true
 ---
-
+<p>Ich versuche regelmäßig auf Events zu gehen. Hier trifft man mich an:</p>
 <div class="posts">
-  {% for post in site.posts | sort: "weight" %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+  <h2>Kommende Events</h2>
+  {% for event in site.events | sort: 'sort' %}
+    {% if event.archive == false %}
+        <article class="highlight">
+          <h3>{{ event.title }}</h3>
+          {% if event.has_content == true %}
+              <div class="entry">
+                {{ event.content }}
+              </div>
+          {% endif %}
+        </article>
+    {% endif %}
   {% endfor %}
-  
+  <h2>Archiv</h2>
+  {% for event in site.events | sort: 'sort' %}
+    {% if event.archive == true %}
+        <article class="post">
+          <h3>{{ event.title }}</h3>
+          {% if event.has_content == true %}
+              <div class="entry">
+                {{ event.content }}
+              </div>
+          {% endif %}
+        </article>
+    {% endif %}
+  {% endfor %}
+
 </div>
