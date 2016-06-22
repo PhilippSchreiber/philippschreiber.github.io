@@ -13,7 +13,7 @@ Im Januar 2013 habe ich mit [Jochen](http://www.dj-finesse.de) zusammen [Schreib
 * [KRUU Fotobox](https://www.kruu-fotobox.de): Fotobox für deine Feier mieten für nur 290 EUR
 * [mahlzeit.io](https://mahlzeit.io): Software-as-a-Service für Gastronomen
 * [porky.io](http://porky.io): Open Source InDesign Scripting Library
-* [Web-Dev-BBQ Heilbronn](http://www.meetup.com/de-DE/Web-Dev-BBQ-Heilbronn/): Meetup für Web Developer der Region Heilbronn
+* [Nerd-BBQ Heilbronn](http://www.meetup.com/de-DE/Nerd-BBQ-Heilbronn/): Meetup für Web Developer der Region Heilbronn
 
 Natürlich haben wir in der Vergangenheit auch viele Kundenprojekte gemacht. Hier eine Auswahl, auf die ich stolz bin:
 
