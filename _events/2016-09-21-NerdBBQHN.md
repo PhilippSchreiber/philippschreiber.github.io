@@ -10,7 +10,8 @@ sort: 20160921
 Das erste Nerd-BBQ Heilbronn in unseren Büroräumen. Drei Talks, Würstchen und Bier.
 
 Talks:
-Echtzeit Webanwendung mit Firebase - Synchronisation, Login und granulare Benutzerrechte in 30 Minuten von Felix Ebert, weddian.de
+
+* Echtzeit Webanwendung mit Firebase - Synchronisation, Login und granulare Benutzerrechte in 30 Minuten von Felix Ebert, weddian.de
 
 Weitere werden bald veröffentlicht.
 
