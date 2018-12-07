@@ -10,8 +10,7 @@ Mit 17 habe ich die ~~mutige~~ verrückte Entscheidung getroffen und bin in der 
 Im Januar 2013 habe ich mit [Jochen](http://www.dj-finesse.de) zusammen [Schreiber & Freunde](https://www.schreiber-freunde.de) gegründet, Anfang 2014 ist Oli als Partner dazugestoßen. Angefangen haben wir als Agentur und technischer Dienstleister für andere Agenturen. Inzwischen haben wir 5 Mitarbeiter und fokussieren uns auf die Entwicklung eigener Projekte:
 
 * [KRUU.com](https://kruu.com): Vermittlungen von Dienstleistern für deine Feier.
-* [KRUU Fotobox](https://www.kruu-fotobox.de): Fotobox für deine Feier mieten für nur 290 EUR
-* [mahlzeit.io](https://mahlzeit.io): Software-as-a-Service für Gastronomen
+* [mahlzeit.io](https://mahlzeit.io): Software-as-a-Service für Gastronomen (exit)
 * [porky.io](http://porky.io): Open Source InDesign Scripting Library
 * [Nerd-BBQ Heilbronn](http://www.meetup.com/de-DE/Nerd-BBQ-Heilbronn/): Meetup für Web Developer der Region Heilbronn
 
